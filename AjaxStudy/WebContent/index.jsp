@@ -30,6 +30,14 @@
                 <th style="background-color: #fafafa; text-align: center;">이메일</th>
             </tr>
         </thead>
+        <tbody>
+            <tr>
+                <td>홍길동</td>
+                <td>11</td>
+                <td>남자</td>
+                <td>tttt@tttt.com</td>
+            </tr>
+        </tbody>
       </table>
     </div>
   </body>
