@@ -14,8 +14,8 @@ public class UserDAO {
 	public UserDAO() {
 		try {
 			String dbURL = "jdbc:mysql://localhost:3300/ajax?serverTimezone=UTC";
-			String dbID = "root";
-			String dbPassword = "manager";
+			String dbID = "****";
+			String dbPassword = "****";
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			conn = DriverManager.getConnection(dbURL,dbID,dbPassword);
 		} catch (Exception e) {
